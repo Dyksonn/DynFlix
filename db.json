@@ -5,7 +5,7 @@
       "titulo": "Front End",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
+        "text": "Formação de Front End",
         "url": "https://www.alura.com.br/cursos-online-front-end"
       }
     },
@@ -14,7 +14,7 @@
       "titulo": "Back End",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
+        "text": "Cursos de Back End",
         "url": "https://www.alura.com.br/cursos-online-programacao"
       }
     },
@@ -23,7 +23,7 @@
       "titulo": "Data Science e Inteligência Artificial",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
+        "text": "Cursos de Data Science",
         "url": "https://www.alura.com.br/cursos-online-mobile"
       }
     },
@@ -37,7 +37,7 @@
       "titulo": "Games",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
+        "text": "Formação de Jogos",
         "url": "https://www.alura.com.br/cursos-online-front-end"
       }
     }
@@ -142,20 +142,20 @@
     {
       "id": 17,
       "categoriaId": 4,
-      "titulo": "Interestellar",
-      "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+      "titulo": "Velozes e furiosos 9",
+      "url": "https://www.youtube.com/watch?v=NnDGWyfP7q4"
     },
     {
       "id": 18,
       "categoriaId": 4,
-      "titulo": "Gattaca",
-      "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+      "titulo": "Eu, a Patroa e as Crianças",
+      "url": "https://www.youtube.com/watch?v=VVutMeXHnVc"
     },
     {
       "id": 19,
       "categoriaId": 4,
-      "titulo": "A Chegada",
-      "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+      "titulo": "Pica-Pau",
+      "url": "https://www.youtube.com/watch?v=B0mebVqRF_0"
     },
     {
       "id": 20,
